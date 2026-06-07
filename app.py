@@ -307,7 +307,7 @@ if page == "🏠 Home & Overview":
     <div class='main-header'>
       <div class='badge'>🎓 BSIT 6TH-D PROJECT · 2023-UAM-2308</div>
       <h1>🏦 Loan Approval Prediction System</h1>
-      <p>Machine Learning-Based Classification using Logistic Regression & Random Forest · University of Agriculture, Mirpur</p>
+      <p>Machine Learning-Based Classification using Logistic Regression & Random Forest · University of Agriculture, Multan</p>
     </div>
     """, unsafe_allow_html=True)
 
