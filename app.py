@@ -285,7 +285,7 @@ with st.sidebar:
         <b>Muhammad Saeed</b><br>
         Reg: 2023-uam-2308<br>
         BSIT 6th-D (2023–27)<br>
-        UAM
+        MNSUAM
       </div>
     </div>
     <div class='sidebar-section'>
