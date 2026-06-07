@@ -2,7 +2,7 @@
 ================================================================
   LOAN APPROVAL PREDICTION SYSTEM — Streamlit App
   Student    : Muhammad Saeed  |  2023-uam-2308
-  Department : BSIT 6th-D (2023-27)  |  UAM
+  Department : BSIT 6th-D (2023-27)  |  MNSUAM
 ================================================================
 """
 
@@ -307,7 +307,7 @@ if page == "🏠 Home & Overview":
     <div class='main-header'>
       <div class='badge'>🎓 BSIT 6TH-D PROJECT · 2023-UAM-2308</div>
       <h1>🏦 Loan Approval Prediction System</h1>
-      <p>Machine Learning-Based Classification using Logistic Regression & Random Forest · University of Agriculture, Multan</p>
+      <p>Machine Learning-Based Classification using Logistic Regression , Decision Tree & Random Forest · Muhammad Nawaz Sharif University of Agriculture, Multan</p>
     </div>
     """, unsafe_allow_html=True)
 
